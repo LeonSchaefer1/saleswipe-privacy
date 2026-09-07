@@ -1,6 +1,6 @@
 # Datenschutzhinweise für SparFux
 
-Stand: 30. August 2026
+Stand: 7. September 2026
 
 Diese Datenschutzhinweise erläutern, wie personenbezogene Daten bei der
 Nutzung der mobilen App „SparFux – Supermarkt Angebote“ verarbeitet werden.
@@ -12,7 +12,7 @@ Alexanderstraße 76<br>
 60489 Frankfurt am Main<br>
 Deutschland
 
-E-Mail: leon@sparfux.app
+E-Mail: leon.schaefer@bytesmoke.com
 
 Registergericht: Amtsgericht Frankfurt am Main<br>
 Handelsregisternummer: HRB 139777
@@ -66,7 +66,9 @@ SparFux integriert Google Mobile Ads und Googles User Messaging Platform
 (UMP). Vor einer Anzeigenanfrage prüft die App den aktuellen UMP-Status. Die
 App fordert ausschließlich nicht personalisierte Anzeigen an und sendet keine
 Anzeigenanfrage, solange UMP diese nicht erlaubt. Google kann dabei Geräte-
-oder Werbe-IDs, IP-Adresse und technische Nutzungsdaten verarbeiten. Soweit
+oder Werbe-IDs, IP-Adresse (einschließlich daraus abgeleitetem ungefährem
+Standort), Anzeigeninteraktionen sowie Diagnose- und Leistungsdaten für
+Werbung, Analyse und Betrugsprävention verarbeiten. Soweit
 erforderlich, wird vor der Verarbeitung eine Einwilligung abgefragt. Verfügbare
 Werbe-Datenschutzoptionen können in den App-Einstellungen erneut geöffnet
 werden.
@@ -145,8 +147,8 @@ technisches System kann jedoch absolute Sicherheit gewährleisten.
 
 ## 7. Minderjährige
 
-SparFux ist eine allgemeine Einkaufs-App und richtet sich nicht speziell an
-Kinder. Wenn uns bekannt wird, dass personenbezogene Daten eines Kindes ohne
+SparFux ist eine allgemeine Einkaufs-App und richtet sich nicht an Kinder
+unter 13 Jahren. Wenn uns bekannt wird, dass personenbezogene Daten eines Kindes ohne
 die erforderliche Zustimmung verarbeitet wurden, prüfen und löschen wir diese
 im Rahmen der gesetzlichen Anforderungen. Eltern und Sorgeberechtigte können
 uns über die oben genannte Kontaktadresse erreichen.
@@ -159,7 +161,7 @@ Datenübertragbarkeit und Widerspruch. Erteilte Einwilligungen können jederzeit
 mit Wirkung für die Zukunft widerrufen werden. Außerdem besteht ein
 Beschwerderecht bei einer zuständigen Datenschutzaufsichtsbehörde.
 
-Anfragen können an leon@sparfux.app gerichtet werden. Zur Vermeidung einer
+Anfragen können an leon.schaefer@bytesmoke.com gerichtet werden. Zur Vermeidung einer
 unbefugten Herausgabe oder Löschung können wir einen angemessenen Nachweis
 verlangen, dass die anfragende Person dem betroffenen Konto zugeordnet ist.
 
